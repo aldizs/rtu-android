@@ -26,7 +26,7 @@
         app:layout_constraintBottom_toTopOf="@id/shoppingQuantity"
         app:layout_constraintStart_toEndOf="@id/shoppingCheck"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="Potatoes" />
+        tools:text="Milk" />
 
     <TextView
         android:id="@+id/shoppingQuantity"
